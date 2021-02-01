@@ -1,5 +1,5 @@
 #open the data.txt file containing the data sets , and read the lines
-file = open('data.txt','r')
+file = open('sampledata.txt','r')
 Lines = file.readlines()
 
 #close the file
